@@ -1,1 +1,1 @@
-# spring-hibernate
+# spring-hibernates
